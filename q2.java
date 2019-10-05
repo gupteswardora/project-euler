@@ -9,12 +9,9 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
  */
 public class q2 {
-
-	public static void main(String[] args) {
+      public static void main(String[] args) {
 		
 		int a=1,b=2,c=0,sum=0;
-		System.out.println("Enter a number");
-		
 		for(int i=0;sum<4000000;i++)
 		{
 			if(a%2==0)
