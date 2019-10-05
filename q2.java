@@ -19,7 +19,6 @@ public class q2 {
 		{
 			if(a%2==0)
 			{
-				System.out.println(a);
 				sum=sum+a;
 			}
 			c=a+b;
