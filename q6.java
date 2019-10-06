@@ -22,7 +22,7 @@ public class q6 {
 			sum2=sum2+i;
 		}
             sum2=sum2*sum2;
-            System.out.println(sum1+"=="+sum2);
+        
             dif=sum2-sum1;
             System.out.println(dif);
 	}
